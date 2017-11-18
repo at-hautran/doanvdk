@@ -1,3 +1,7 @@
+/*.row {
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }*/
 #header nav{
     background-color: white;
     padding-top: 10px;
