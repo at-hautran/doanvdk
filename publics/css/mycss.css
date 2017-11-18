@@ -63,3 +63,14 @@ h1 {
    -o-hyphens: auto;
    hyphens: auto;
 }
+@media screen and (max-width: 1500px) {
+   .card-width {
+      width: 27rem;
+   }
+}
+
+@media screen and (max-width: 1024px) {
+   .card-width {
+      width: 100%;
+   }
+}
